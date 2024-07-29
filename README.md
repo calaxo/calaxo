@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+![Satya Wikananda's card name](https://cardivo.vercel.app/api?name=[name]&description=[description]&image=[image_url])
