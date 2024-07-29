@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-![Satya Wikananda's card name](https://cardivo.vercel.app/api?name=[axel calendreau]&description=[de multiple projet dans plein de language]&i?backgroundColor=[%23ffffff])
+![Satya Wikananda's card name](https://cardivo.vercel.app/api?name=["axel calendreau"]&description=["de multiple projet dans plein de language"]&i?backgroundColor=[%23ffffff])
